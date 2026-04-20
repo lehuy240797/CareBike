@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
       title: 'CareBike - Quản lí xe máy của bạn',
       theme: ThemeData(
 
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.orange),
+        colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
         useMaterial3: true,
       ),
       home: const MyHomePage(title: 'CareBike Dashboard'),
