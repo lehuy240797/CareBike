@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'CareBike - Quản lí xe máy của bạn',
+      title: 'CareBike - Quản lí xe máy của tôi121212',
       theme: ThemeData(
 
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.red),
